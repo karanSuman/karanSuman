@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/karanSuman](https://github.com/karanSuman)
 
-- 💬 Ask me about **JavaScript**
+
 
 - 📫 How to reach me **karansuman.chem@gmail.com**
 
