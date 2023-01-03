@@ -43,10 +43,35 @@
 
 ### 👉 Databases
  
-     <p>
-     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> 
-
-    </p>
+<p align="left">
+ <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="Mysql"/>
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgresql"/> 
+      <a href="https://www.oracle.com/in/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"
+      alt="Oracle"/> 
+         
+ ### 👉 Design
+ <p align="left">
+ 
+  <a href="https://www.adobe.com/in/products/photoshop/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
+      alt="Adobe PhotoShop"/>  
+    
+   <a href="https://www.figma.com/design/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+      alt="Figma"/>  
+    
+   <a href="https://www.canva.com/en_in/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"
+      alt="Canva"/>
+    
+      
+  
+   
 ### 👉 Competitive Programming & Problem Solving
  
 <p>
