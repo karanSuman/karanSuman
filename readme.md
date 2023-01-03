@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/singhtirupati/singhtirupati/blob/main/assets/banner.png)
+![Github Banner](assets/banner.png)
 
 <h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi, This is Suman Karan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
