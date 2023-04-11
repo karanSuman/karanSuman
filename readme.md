@@ -11,7 +11,7 @@
 
 <br>
 
-- A comp-sci undergraduate student
+- A comp-science undergraduate student
 - A passionate  Front-end developer
 - A aspiring software developer with good problem-solving skills
 - Able to perform well in a team
