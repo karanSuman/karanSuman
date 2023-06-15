@@ -78,7 +78,7 @@
     <a href="https://leetcode.com/karansuman//" target="_blank"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
     <a href="https://www.hackerrank.com/karansuman_chem" target="_blank"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/sumankaran" target="_blank"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-    <a href="(https://auth.geeksforgeeks.org/user/karansumanchem/practice)" target="_blank"><img alt = "GeeksForGeeks" src="![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/karansumanchem/practice" target="_blank"><img alt = "GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
 </p>
 
 ### 👉 Operating Systems
